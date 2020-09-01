@@ -186,25 +186,6 @@ def Simulator(A):
 
  return wait_RR
 
-"""#The walking style 
-'you may turn on the vision to see the walk'
-"""
-
-
-
-"""#Looking for the left and right transitions"""
-
-
-
-"""#Now looking for the respective combinations of transitions"""
-
-
-
-"""#Calculating the respective waiting times"""
-
-
-
-"""#Visualisation of the distributions"""
 
 def NormalizeData(data):
     return (data - np.min(data)) / (np.max(data) - np.min(data))
