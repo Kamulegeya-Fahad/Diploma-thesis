@@ -1,2 +1,3 @@
-# Diploma-thesis
-in progress
+### Diploma-thesis
+
+Modelling dynamics in the GPCR cycle (in progress)
